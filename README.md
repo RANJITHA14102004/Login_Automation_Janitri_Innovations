@@ -49,41 +49,77 @@
 Final output:
 
 🔧 Setting up WebDriver...
+
 Aug 06, 2025 10:58:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
 WARNING: Unable to find CDP implementation matching 138
+
 Aug 06, 2025 10:58:09 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+
 WARNING: Unable to find version of CDP to use for 138.0.7204.184. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+
 🌐 Opening login page...
+
 🔐 Attempting invalid login...
+
 ⚠️ Error message found: invalid credentials
+
 🧹 Closing browser...
+
 🔧 Setting up WebDriver...
+
 Aug 06, 2025 10:58:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
 WARNING: Unable to find CDP implementation matching 138
+
 Aug 06, 2025 10:58:13 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+
 WARNING: Unable to find version of CDP to use for 138.0.7204.184. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+
 🌐 Opening login page...
+
 🔍 Checking if login button is enabled...
+
 🧹 Closing browser...
+
 🔧 Setting up WebDriver...
+
 Aug 06, 2025 10:58:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
 WARNING: Unable to find CDP implementation matching 138
+
 Aug 06, 2025 10:58:16 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+
 WARNING: Unable to find version of CDP to use for 138.0.7204.184. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+
 🌐 Opening login page...
+
 👁️ Toggling password visibility...
+
 ✅ Password toggle clicked successfully.
+
 ✅ Password toggle clicked successfully.
+
 🧹 Closing browser...
+
 🔧 Setting up WebDriver...
+
 Aug 06, 2025 10:58:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
 WARNING: Unable to find CDP implementation matching 138
+
 Aug 06, 2025 10:58:19 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+
 WARNING: Unable to find version of CDP to use for 138.0.7204.184. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.20.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+
 🌐 Opening login page...
+
 ✅ Attempting valid login...
+
 ✅ Valid login passed. Current URL: https://dev-dash.janitri.in/
+
 🧹 Closing browser...
+
 
 ===============================================
 
