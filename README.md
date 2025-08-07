@@ -86,8 +86,10 @@ WARNING: Unable to find version of CDP to use for 138.0.7204.184. You may need t
 🧹 Closing browser...
 
 ===============================================
+
 Default Suite
 Total tests run: 4, Passes: 4, Failures: 0, Skips: 0
+
 ===============================================
 
 
